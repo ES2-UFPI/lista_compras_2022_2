@@ -27,3 +27,4 @@ café
 achocolatado
 doce de leite
 repolho
+morango
