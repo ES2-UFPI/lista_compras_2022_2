@@ -21,18 +21,15 @@ laranja
 kiwi
 café
 achocolatado
-<<<<<<< HEAD
 doce de leite
 repolho
 morango
 iogurte
 shampoo
-=======
 Lasanha congelada Sadia
 Linguiça Perdigão
 Miojo da turma da Mônica
 Brócolis
->>>>>>> a3539ef24f94795a1b2e2836f45a2cbd23ec919c
 Macarrao
 Salsicha
 Queijo
