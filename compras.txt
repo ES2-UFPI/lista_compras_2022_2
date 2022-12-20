@@ -33,3 +33,8 @@ Linguiça Perdigão
 Miojo da turma da Mônica
 Brócolis
 >>>>>>> a3539ef24f94795a1b2e2836f45a2cbd23ec919c
+Macarrao
+Salsicha
+Queijo
+Mortadela
+Presunto
