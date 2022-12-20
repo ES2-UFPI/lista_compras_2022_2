@@ -35,3 +35,4 @@ Salsicha
 Queijo
 Mortadela
 Presunto
+Morango
