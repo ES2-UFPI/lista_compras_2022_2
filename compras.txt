@@ -19,9 +19,8 @@ amaciante
 abacaxi
 laranja
 kiwi
-<<<<<<< HEAD
 café
-=======
-café
->>>>>>> anacarolina
 achocolatado
+Lasanha congelada Sadia
+Linguiça Perdigão
+Miojo da turma da Mônica
